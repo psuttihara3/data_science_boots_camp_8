@@ -15,3 +15,5 @@ I learn a lot of stuff relate to data sceince skills. This bootscamp
   - Esential Machine Learning for Data Analyst
   - Python Programing
   - Essenntial Python for data analyst 
+
+You can find me on linkin https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit
